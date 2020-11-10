@@ -1,3 +1,0 @@
-#!/bin/bash
-
-export NBGITPULLER_PARENTPATH="/home/jovyan/teste"
